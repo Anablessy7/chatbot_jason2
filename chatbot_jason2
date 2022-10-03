@@ -1,0 +1,131 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hallo",
+        "hai",
+        "halo",
+        "hei",
+        "hi",
+        "hy",
+        "pagi",
+        "morning",
+        "siang",
+        "afternoon",
+        "sore",
+        "malam",
+        "bro",
+        "sis",
+        "kawan"
+      ],
+      "responses": [
+        "Hai! Merdekabot di sini. Selamat datang di Portal Unit Layanan Terpadu, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. Bagaimana saya bisa membantu anda?" 
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Dah",
+        "Dadah",
+        "Bye",
+        "Byee",
+        "Good bye",
+        "Selamat tinggal",
+        "Sampai jumpa",
+        "Bai",
+        "See you"
+      ],
+      "responses": [
+        "Bye!",
+        "Dadahh!",
+        "Good bye!",
+        "Dahh, semoga harimu menyenangkan yaa!",
+        "Sampai jumpa lagi!",
+        "See u! Senang bisa membantu"
+      ]
+    },
+    {
+      "tag": "terimakasih",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Terima kasih",
+        "Makasih",
+        "Terima kasih banyak"
+      ],
+      "responses": [
+        "Dengan senang hati:)"
+      ]
+    },
+    {
+      "tag": "penjelasan_Merdekabot",
+      "patterns": [
+        "Apa itu Merdekabot?"
+      ],
+      "responses": [
+        "Merdekabot adalah sistem layanan informasi publik dan pengaduan online rakyat. Merdekabot merupakan kanal pengaduan milik Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi."
+      ]
+    },
+    {
+      "tag": "tujuan_Merdekabot",
+      "patterns": [
+        "Apa tujuan diciptakannya Merdekabot?"
+      ],
+      "responses": [
+        "Merdekabot diciptakan sebagai sarana layanan masyarakat untuk dapat menyampaikan permohonan informasi, pengaduan, berkonsultasi, serta memberikan saran dan masukan dengan nyaman dalam menangani permasalahan pada bidang pendidikan dan memperoleh kepastian mendapatkan tanggapan yang baik dan profesional."
+      ]
+    }, 
+    {
+      "tag": "persyaratan_membuat_laporan",
+      "patterns": [
+        "Apa persyaratan untuk mengajukan laporan?"
+      ],
+      "responses": [
+        "Sebelum mengajukan laporan permasalahan, mohon pelapor mengisi persyaratan dibawah ini terlebih dahulu"
+        "Nama dan Jabatan",
+        "Tempat dan waktu kejadian pelapor",
+        "Bentuk laporan",
+        "Deskripsi singkat permasalahan laporan"
+      ]
+    },
+    {
+      "tag": "masalah_pertama_pengaduan_sarana_prasarana",
+      "patterns": [
+        "Yuvena Katarina (Kepala Sekolah)"
+        "Wololanu, Desa Nuamulu, Wolojita, Nuamuli, Kabupaten Ende, Nusa Tenggara Timur"
+        "Laporan sarana dan prasarana"
+        "Sekolah Dasar Katolik Wololanu mengalami minimnya faktor sarana dan prasarana sekolah. Hal ini terbukti dengan keadaan gedung sekolah, ketiadaan fasilitas pendukung, tidak ada jaringan internet di sekolah, tidak adanya akses jalan dan transportasi sehingga puluhan pelajar terpaksa berjalan kaki puluhan meter menuju sekolah"
+      ],
+      "responses": [
+        "Terima kasih karena telah menyampaikan hal ini. Namun, saya perlu memeriksa dengan tim saya untuk memberitahu anda tentang hal ini lebih lanjut. Mohon menunggu tim kami akan menghubungi anda"
+      ]
+    }, 
+    {
+      "tag": "persyaratan_membuat_laporan",
+      "patterns": [
+        "Apa persyaratan untuk mengajukan laporan?"
+      ],
+      "responses": [
+        "Sebelum mengajukan laporan permasalahan, mohon pelapor mengisi persyaratan dibawah ini terlebih dahulu"
+        "Nama dan Jabatan",
+        "Tempat dan waktu kejadian pelapor",
+        "Bentuk laporan",
+        "Deskripsi singkat permasalahan laporan"
+      ]
+    },
+    {  
+      "tag": "masalah_pertama_pengaduan_sarana_prasarana",
+      "patterns": [
+        "Yuvena Katarina (Kepala Sekolah)"
+        "Wololanu, Desa Nuamulu, Wolojita, Nuamuli, Kabupaten Ende, Nusa Tenggara Timur"
+        "Laporan sarana dan prasarana"
+        "Sekolah Dasar Katolik Wololanu mengalami minimnya faktor sarana dan prasarana sekolah. Hal ini terbukti dengan keadaan gedung sekolah, ketiadaan fasilitas pendukung, tidak ada jaringan internet di sekolah, tidak adanya akses jalan dan transportasi sehingga puluhan pelajar terpaksa berjalan kaki puluhan meter menuju sekolah"
+      ],
+      "responses": [
+        "Terima kasih karena telah menyampaikan hal ini. Namun, saya perlu memeriksa dengan tim saya untuk memberitahu anda tentang hal ini lebih lanjut. Mohon menunggu tim kami akan menghubungi anda"
+      ]
+    }
+  }
+}
+    
